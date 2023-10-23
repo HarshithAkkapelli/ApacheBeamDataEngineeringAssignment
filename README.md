@@ -18,7 +18,7 @@
 ---
 
 <a name="tasks-overview"></a>
-## 🔍 Tasks Overview
+## 🔍 Tasks Solutions
 
 | Task No. | 🌐 Colab Link | 📦 Kaggle Dataset Link |
 |----------|--------------|------------------------|
