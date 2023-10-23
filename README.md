@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://www.apache.org/img/ASF20thAnniversary.jpg" alt="Apache Beam Logo" width="200"/>
-</p>
 
 <h1 align="center">📊 Apache Beam Data Engineering Assignment</h1>
 
