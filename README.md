@@ -10,7 +10,7 @@
 
 ## 📝 Table of Contents
 
-- [🔍 Tasks Overview](#tasks-overview)
+- [🔍 Tasks Solutions](#tasks-overview)
 - [📘 About](#about)
 - [🔖 License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
