@@ -10,7 +10,7 @@
 
 ## 📝 Table of Contents
 
-- [🔍 Tasks Solutions](#tasks-overview)
+- [🔍 Solutions of the Tasks](#tasks-overview)
 - [📘 About](#about)
 - [🔖 License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
@@ -18,7 +18,7 @@
 ---
 
 <a name="tasks-overview"></a>
-## 🔍 Tasks Solutions
+## 🔍 Solutions of the Tasks
 
 | Task No. | 🌐 Colab Link | 📦 Kaggle Dataset Link |
 |----------|--------------|------------------------|
