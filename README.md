@@ -29,7 +29,7 @@
 <a name="about"></a>
 ## 📘 About
 
-This repository contains data engineering tasks based on Apache Beam. Each task is executed on Google Colab and utilizes datasets from Kaggle.
+This repository contains data engineering tasks based on EDA, Auto EDA and Apache Beam. Each task is executed on Google Colab and utilizes datasets from Kaggle.
 
 <a name="license"></a>
 ## 🔖 License
